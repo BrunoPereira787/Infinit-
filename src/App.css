@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  background: #0d0e12;
+  width: 100%;
+  height: 100%;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.container {
+  width: 1480px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.movie_lists {
+  margin-top: -100px;
+}
